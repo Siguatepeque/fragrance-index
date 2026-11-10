@@ -1,0 +1,204 @@
+{
+  "schema_version": 1,
+  "reviewed_on": "2026-11-09",
+  "entries": [
+    {
+      "id": "fragrantica",
+      "url": "https://www.fragrantica.com/",
+      "role": "Primary community discovery, product identities and public rating evidence",
+      "access": "paused_after_429",
+      "caveat": "Similarity widget requires a verified rendered capture or permitted export; page links are not dupes"
+    },
+    {
+      "id": "fragrantica-awards",
+      "url": "https://www.fragrantica.com/awards2025/",
+      "role": "Original annual ballot categories and methodology",
+      "access": "original_pages_denied",
+      "caveat": "Inspect voter eligibility and weighted votes before demographic interpretation"
+    },
+    {
+      "id": "parfumo-men",
+      "url": "https://www.parfumo.com/Perfumes/Tops/Men",
+      "role": "Secondary product discovery",
+      "access": "perfume_captures_quarantined",
+      "caveat": "Men is a perfume category, not respondent gender"
+    },
+    {
+      "id": "parfumo-unisex",
+      "url": "https://www.parfumo.com/Perfumes/Tops/Unisex",
+      "role": "Specialist discovery and cross-platform comparison",
+      "access": "perfume_captures_quarantined",
+      "caveat": "No source voting counts are assumed independent unique participants"
+    },
+    {
+      "id": "parfumo-recent",
+      "url": "https://www.parfumo.com/Recently_added",
+      "role": "New database-entry discovery",
+      "access": "planned",
+      "caveat": "Date added is not a launch date"
+    },
+    {
+      "id": "tai-guide",
+      "url": "https://theophilusaladejebi.gumroad.com/l/avaxb",
+      "role": "User-selected presentation reference",
+      "access": "public_listing_reviewed",
+      "caveat": "Paid guide not accessed"
+    },
+    {
+      "id": "tai-youtube",
+      "url": "https://www.youtube.com/@definitelytai",
+      "role": "Original creator claims and comparisons",
+      "access": "per_item_audit",
+      "caveat": "Do not convert commercial experience claims or audience size into study evidence"
+    },
+    {
+      "id": "prince-tafah",
+      "url": "https://www.instagram.com/warrentafah/",
+      "role": "User-selected dupe comparison reference",
+      "access": "per_item_audit"
+    },
+    {
+      "id": "prince-lemon8",
+      "url": "https://www.lemon8-app.com/@warrentafah?region=us",
+      "role": "Accessible original creator posts",
+      "access": "public_profile_identified"
+    },
+    {
+      "id": "school-of-scent",
+      "url": "https://www.schoolofscent.com/blog/introducingourblog",
+      "role": "Locate original reaction comparisons",
+      "access": "format_reviewed",
+      "caveat": "Require counts, question and demographic context for each trial"
+    },
+    {
+      "id": "gents-scents",
+      "url": "https://www.youtube.com/@GentsScents",
+      "role": "New releases, designer comparisons and alternatives",
+      "access": "planned_item_level_review"
+    },
+    {
+      "id": "perfume-guy",
+      "url": "https://theperfumeguy.net/en-ca",
+      "role": "Specialist range and new releases",
+      "access": "planned_item_level_review"
+    },
+    {
+      "id": "jus-de-rose",
+      "url": "https://www.youtube.com/@jusderose",
+      "role": "Female reviewer perspective and qualitative comparisons",
+      "access": "planned_item_level_review",
+      "caveat": "One female review is not a representative female poll"
+    },
+    {
+      "id": "demi-rawling",
+      "url": "https://www.youtube.com/watch?v=C9Gn8iTa6B8",
+      "role": "Original social preference poll candidate",
+      "access": "video_identified"
+    },
+    {
+      "id": "persolaise",
+      "url": "https://persolaise.com/",
+      "role": "Dated specialist criticism and context",
+      "access": "planned_item_level_review"
+    },
+    {
+      "id": "bois-de-jasmin",
+      "url": "https://boisdejasmin.com/",
+      "role": "Written perfume criticism and archive context",
+      "access": "planned_item_level_review"
+    },
+    {
+      "id": "which-panel",
+      "url": "https://www.which.co.uk/reviews/perfumes/article/best-perfumes-for-men-aSmH95S4VSKE",
+      "role": "Reported blind comparison design and qualitative female subgroup result",
+      "access": "article_reviewed"
+    },
+    {
+      "id": "nst-releases",
+      "url": "https://nstperfume.com/new-perfumes-fragrances/",
+      "role": "Dated release announcements",
+      "access": "research_starting_point"
+    },
+    {
+      "id": "nst-archive",
+      "url": "https://nstperfume.com/now-smell-this-archives/",
+      "role": "Historical announcement archive",
+      "access": "research_starting_point"
+    },
+    {
+      "id": "wayback-help",
+      "url": "https://archivesupport.zendesk.com/hc/en-us/articles/360001513491-Save-Pages-in-the-Wayback-Machine",
+      "role": "Archive mechanics when retention is permitted",
+      "access": "reference",
+      "caveat": "Respect source noarchive and access controls"
+    },
+    {
+      "id": "lumirank",
+      "url": "https://medium.com/@Stuart98SSB/the-lumirank-algorithm-and-how-we-got-here-01ca23ac4122",
+      "role": "Primary explanation of competitive-ranking design inspiration",
+      "access": "reference",
+      "caveat": "Current fragrance engine does not implement LumiRank"
+    },
+    {
+      "id": "bradley-terry",
+      "url": "https://academic.oup.com/biomet/article-abstract/39/3-4/324/326091",
+      "role": "Original paired-comparison model reference",
+      "access": "reference",
+      "caveat": "Requires actual paired evidence; not implemented in this pilot"
+    },
+    {
+      "id": "odor-variation",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0033810",
+      "role": "Original research on individual odor/perfume interaction",
+      "access": "context",
+      "caveat": "Does not establish commercial product rankings"
+    },
+    {
+      "id": "google-trends",
+      "url": "https://support.google.com/trends/answer/4365533?hl=en",
+      "role": "Interpret search-interest normalization if exposure is later researched",
+      "access": "reference",
+      "caveat": "Search interest is not ownership or gender-specific preference"
+    },
+    {
+      "id": "les-indemodables-catalog",
+      "url": "https://lesindemodables-parfums.com/en/eau-de-parfum/",
+      "role": "Whole catalog discovery independent of top-list placement",
+      "access": "12 named entries inspected; no quality score inferred"
+    },
+    {
+      "id": "rogue-catalog",
+      "url": "https://rogueperfumery.com/collections/perfume-bottles",
+      "role": "Whole current EDT catalog discovery; bundles excluded",
+      "access": "9 named fragrances inspected; no quality score inferred"
+    },
+    {
+      "id": "bois-de-jasmin-rating-archive",
+      "url": "https://boisdejasmin.com/perfume-fragrance-reviews/perfume-reviews-by-rating",
+      "role": "Original critical-merit archive; individual editorial judgments",
+      "access": "5-star placement checked for three research candidates",
+      "caveat": "Not a demographic poll; historical formulations and individual articles require review"
+    },
+    {
+      "id": "apish-fragrantica-search",
+      "url": "https://api.sh/docs/fragrantica-search",
+      "role": "Secondary acquisition of the combined Fragrantica male/unisex popular search index",
+      "access": "provider_snapshot_imported",
+      "caveat": "Provider query and receipt order verified; all native 500 positions not independently verified. Fetch time does not date every underlying aggregate."
+    },
+    {
+      "id": "fragrance-addict",
+      "url": "https://eloyguisande.github.io/fragrance-addict/",
+      "role": "Public secondary metadata for targeted alternative research",
+      "access": "factual_metadata_snapshot_imported",
+      "caveat": "Curated incomplete coverage, unknown rating dates, affiliate links and unverified bottle volumes. Proprietary ranks and generated summaries excluded."
+    },
+    {
+      "id": "fragrantica-historical-metadata",
+      "url": "https://github.com/hzayr/Fragrantica-Analysis/blob/b113c1daa2d8e4f9f9e2265bbe0e3a490d71edfd/fra_perfumes.csv",
+      "role": "Historical category-label cross-check",
+      "access": "factual_metadata_only",
+      "caveat": "File commit 2025-07-03 is not the rating date; three overlapping label conflicts preserved. Not a current popularity list."
+    }
+  ]
+}

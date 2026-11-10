@@ -1,0 +1,315 @@
+{
+  "schema_version": 1,
+  "reviewed_on": "2026-11-09",
+  "scope": "Original-source audit; no claims in this file are automatically scored",
+  "claims": [
+    {
+      "id": "reference-guide",
+      "creator": "Theophilus Aladejebi / Tai / @definitelytai",
+      "source_url": "https://theophilusaladejebi.gumroad.com/l/avaxb",
+      "claim_type": "creator_product_listing",
+      "status": "public_listing_only",
+      "finding": "The screenshot is the cover of The Modern Man's Fragrance Guide. Public positioning emphasizes tested fragrances, selection steps and budget options.",
+      "limitations": [
+        "Paid guide has not been purchased or read",
+        "Creator experience claims are self-reported",
+        "No guide-derived dataset is available"
+      ],
+      "numeric_eligibility": false
+    },
+    {
+      "id": "prince-tafah",
+      "creator": "Prince Tafah / @warrentafah",
+      "source_url": "https://www.instagram.com/warrentafah/",
+      "alternate_primary_url": "https://www.lemon8-app.com/@warrentafah?region=us",
+      "claim_type": "user_selected_reference",
+      "status": "original_posts_for_item_level_review",
+      "finding": "Prioritize original alternative-fragrance comparisons for discovery and qualitative analysis.",
+      "limitations": [
+        "No blanket accuracy score assigned",
+        "No numerical poll or reviewer scores extracted"
+      ],
+      "numeric_eligibility": false
+    },
+    {
+      "id": "tai-women-poll-video",
+      "creator": "Tai / @definitelytai",
+      "source_url": "https://www.youtube.com/watch?v=ztaP2cd5F5s",
+      "claim_type": "creator_report_of_external_poll",
+      "independence_key": "fragrantica-awards-2025-womens-favorite",
+      "status": "attributed_claim_not_validated_poll",
+      "access_method": "Public YouTube page video description metadata; no paid material or media downloaded",
+      "reported_headline_total": 20000,
+      "verified_unique_female_participants": null,
+      "per_fragrance_sample_size": null,
+      "original_question": null,
+      "demographic_verification": null,
+      "reported_underlying_source": "Fragrantica annual community surveys",
+      "reported_results": [
+        {
+          "reported_order": 1,
+          "name": "Althair",
+          "reported_percent": 80.9
+        },
+        {
+          "reported_order": 2,
+          "name": "Dior Homme Parfum",
+          "reported_percent": 81.7
+        },
+        {
+          "reported_order": 3,
+          "name": "Bleu de Chanel Eau de Parfum",
+          "reported_percent": 75.7
+        },
+        {
+          "reported_order": 4,
+          "name": "Tobacco Vanille",
+          "reported_percent": 73.6
+        },
+        {
+          "reported_order": 5,
+          "name": "Terre d'Hermes",
+          "reported_percent": 80.2
+        },
+        {
+          "reported_order": 6,
+          "name": "Stronger With You Intensely",
+          "reported_percent": 78.2
+        },
+        {
+          "reported_order": 7,
+          "name": "Grand Soir",
+          "reported_percent": 80
+        },
+        {
+          "reported_order": 8,
+          "name": "Dior Homme Intense",
+          "reported_percent": 80.5
+        },
+        {
+          "reported_order": 9,
+          "name": "Jazz Club",
+          "reported_percent": 77.3
+        },
+        {
+          "reported_order": 10,
+          "name": "Imagination",
+          "reported_percent": 78.1
+        }
+      ],
+      "finding": "Video reports percentages attributed to an external award poll. The report order is not a descending ordering of the listed percentages.",
+      "limitations": [
+        "Headline total cannot be used as every fragrance's denominator",
+        "Unique women and voting eligibility not independently established",
+        "Approval percentage definition, net-vote mechanics and sampling not verified",
+        "Concentration and year of some products need resolution",
+        "Commercial guide and AI recommendation product appear in the source context"
+      ],
+      "next_evidence_needed": [
+        "Original category and question",
+        "Participant eligibility and account weighting",
+        "Per-item raw denominators and approval definition",
+        "Edition identities"
+      ],
+      "numeric_eligibility": false
+    },
+    {
+      "id": "fragrantica-awards-2025",
+      "source_url": "https://www.fragrantica.com/awards2025/",
+      "supporting_original_url": "https://www.fragrantica.com/news/Women-s-Favourite-Fragrance-For-Men-2025-Althair-from-Parfums-De-Marly-24220.html",
+      "claim_type": "community_award_category",
+      "independence_key": "fragrantica-awards-2025-womens-favorite",
+      "status": "original_pages_access_denied",
+      "finding": "Original category/article identified for follow-up. No raw results or voter demographics were collected from these pages.",
+      "limitations": [
+        "A category title does not establish voter gender",
+        "Indexed or creator-reported results do not replace the original denominator",
+        "Vote weighting may differ from a simple participant proportion"
+      ],
+      "numeric_eligibility": false
+    },
+    {
+      "id": "which-blind-comparison",
+      "source_url": "https://www.which.co.uk/reviews/perfumes/article/best-perfumes-for-men-aSmH95S4VSKE",
+      "claim_type": "panel_comparison",
+      "status": "qualitative_context_only",
+      "reported_fragrances_tested": 14,
+      "reported_panel_size_description": "more than 40 people",
+      "female_subgroup_sample_size": null,
+      "finding": "The article describes unbranded atomizers and initial plus later assessment; Jimmy Choo Man Extreme was its reported female favorite within the tested selection.",
+      "limitations": [
+        "Female subgroup denominator and raw ballots unavailable in inspected material",
+        "Overall article score weights male feedback more; it is not a female-only score",
+        "Small selected product set cannot establish a universal top fragrance",
+        "Publication/testing/last-checked dates appear inconsistent and need clarification"
+      ],
+      "numeric_eligibility": false
+    },
+    {
+      "id": "demi-instagram-poll",
+      "creator": "Demi Rawling",
+      "source_url": "https://www.youtube.com/watch?v=C9Gn8iTa6B8",
+      "claim_type": "social_poll_report",
+      "status": "candidate_for_original_poll_audit",
+      "finding": "Original video located about an Instagram date-fragrance vote.",
+      "limitations": [
+        "Per-match counts, respondent gender and prompt wording not extracted",
+        "Affiliate disclosure requires item-level context",
+        "An Instagram audience is self-selected"
+      ],
+      "numeric_eligibility": false
+    },
+    {
+      "id": "school-of-scent",
+      "creator": "School of Scent",
+      "source_url": "https://www.schoolofscent.com/blog/introducingourblog",
+      "claim_type": "testing_format_description",
+      "status": "discovery_only",
+      "finding": "Original blog describes reaction/comparison content suitable for locating individual tests.",
+      "limitations": [
+        "No individual trial dataset extracted",
+        "Creator's format description does not verify each video's sample or blinding"
+      ],
+      "numeric_eligibility": false
+    },
+    {
+      "id": "derivative-video-summary",
+      "source_url": "https://wellfizz.com/what-cologne-do-women-like/",
+      "claim_type": "derivative_summary",
+      "independence_key": "fragrantica-awards-2025-womens-favorite",
+      "status": "excluded_derivative",
+      "finding": "Repeats the creator/poll narrative and contains a product naming error. Do not count as independent confirmation.",
+      "numeric_eligibility": false
+    },
+    {
+      "id": "ai-video-summary",
+      "source_url": "https://glasp.co/youtube/ztaP2cd5F5s",
+      "claim_type": "ai_summary",
+      "independence_key": "fragrantica-awards-2025-womens-favorite",
+      "status": "excluded_ai_summary",
+      "finding": "Not an original preference dataset.",
+      "numeric_eligibility": false
+    },
+    {
+      "id": "critical-lapot-studio-iris-hermit",
+      "source_url": "https://boisdejasmin.com/2026/02/lapot-studio-iris-hermit-perfume-review.html",
+      "claim_type": "individual_editorial_merit",
+      "status": "Original review inspected",
+      "reported_editorial_rating": 5,
+      "reported_scale": 5,
+      "findings": "The reviewer praises the balanced iris structure and restrained close-to-skin presence.",
+      "limitations": [
+        "Individual critical judgment, not an attraction poll",
+        "Current availability and edition details still need verification"
+      ],
+      "numeric_eligibility": false
+    },
+    {
+      "id": "critical-neela-vermeire-creations-niral",
+      "source_url": "https://boisdejasmin.com/2018/04/neela-vermeire-creations-niral-fragrance-review.html",
+      "claim_type": "individual_editorial_merit",
+      "status": "Five-star placement verified in the original site's rating archive; individual article timed out",
+      "reported_editorial_rating": 5,
+      "reported_scale": 5,
+      "findings": "Listed in the site's five-star review category; no article-specific assessment extracted.",
+      "limitations": [
+        "Original archive placement only",
+        "Review age and current formulation require checking",
+        "No preference-poll denominator"
+      ],
+      "numeric_eligibility": false
+    },
+    {
+      "id": "critical-knize-ten",
+      "source_url": "https://boisdejasmin.com/2012/04/knize-ten-perfume-review.html",
+      "claim_type": "individual_editorial_merit",
+      "status": "Original article located and five-star placement verified in the site's rating archive",
+      "reported_editorial_rating": 5,
+      "reported_scale": 5,
+      "findings": "Listed in the site's five-star review category; retained as a heritage-fragrance candidate.",
+      "limitations": [
+        "Historical assessment must not be assumed to describe the current formulation",
+        "General critical merit is not measured attraction",
+        "Coverage profile remains provisional"
+      ],
+      "numeric_eligibility": false
+    },
+    {
+      "id": "native-category-spot-check",
+      "claim_type": "indexed_primary_product_category",
+      "status": "four_product_labels_corroborated",
+      "source_url": "https://www.fragrantica.com/perfume/Parfums-de-Marly/Layton-39314.html",
+      "supporting_urls": [
+        "https://www.fragrantica.com/perfume/Louis-Vuitton/Pacific-Chill-81423.html",
+        "https://www.fragrantica.com/perfume/Tom-Ford/Ombre-Leather-2018-50239.html",
+        "https://www.fragrantica.com/perfume/Giardini-Di-Toscana/Bianco-Latte-64757.html"
+      ],
+      "access_method": "Search-indexed Fragrantica page titles; no blocked collector retried",
+      "finding": "All four indexed primary titles classify these editions for women and men, agreeing with their unisex search-index labels.",
+      "limitations": [
+        "Spot checks do not independently verify all 500 labels or all native search positions",
+        "Product categories are not perceived masculinity or voter demographics"
+      ],
+      "numeric_eligibility": false
+    },
+    {
+      "id": "liquid-brun-comparative-leads",
+      "claim_type": "qualitative_comparative_reviews",
+      "status": "indexed_original_review_excerpts_only",
+      "source_url": "https://www.fragrantica.com/perfume/French-Avenue/Liquid-Brun-94713.html",
+      "access_method": "Search-indexed primary review excerpts",
+      "finding": "An indexed reviewer prefers Liquid Brun's comfort and performance while describing Althair as smelling more premium. Another excerpt criticizes the alternative's opening. These are conflicting individual reports, not measured comparative performance.",
+      "review_author": null,
+      "individual_review_permalink": null,
+      "publication_date": null,
+      "limitations": [
+        "Only indexed excerpts were inspected",
+        "No individual trial denominator, dosing protocol or verified batch comparison",
+        "Full item-level review remains incomplete"
+      ],
+      "numeric_eligibility": false
+    },
+    {
+      "id": "amber-oud-gold-comparative-leads",
+      "claim_type": "qualitative_comparative_reviews",
+      "status": "indexed_original_review_excerpt_only",
+      "source_url": "https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Amber-Oud-Gold-Edition-51816.html",
+      "access_method": "Search-indexed primary review excerpt",
+      "finding": "An indexed reviewer reports smelling Erba Pura and finding Amber Oud Gold identical. This supports inspecting the pair, without proving identical smell across wearers or a better fragrance.",
+      "review_author": null,
+      "individual_review_permalink": null,
+      "publication_date": null,
+      "limitations": [
+        "Only an indexed excerpt was inspected",
+        "No blind trial, exact denominator or formula identity established",
+        "Full item-level review remains incomplete"
+      ],
+      "numeric_eligibility": false
+    }
+  ],
+  "source_integrity": [
+    {
+      "platform": "fragrantica",
+      "status": "rate_limited",
+      "finding": "Five consistent perfume captures were imported before HTTP 429. Remaining requests in the batch stopped. All five aggregate audiences are unknown.",
+      "action": "Keep dated eligible extracts; persistent collection hold. Do not treat community votes as women-only preferences."
+    },
+    {
+      "platform": "parfumo",
+      "status": "quarantined_pending_review",
+      "finding": "Two later page responses had expected perfume titles but conflicting product details or missing metrics; isolated browser access was then blocked. Cause is undetermined.",
+      "examples": [
+        {
+          "url": "https://www.parfumo.com/Perfumes/Chanel/Bleu_de_Chanel_Eau_de_Parfum",
+          "observed_primary_heading": "Bleu de Chanel Chanel 2005 Eau de Parfum",
+          "issue": "Release/product detail conflict; not accepted as the intended edition"
+        },
+        {
+          "url": "https://www.parfumo.com/Perfumes/french-avenue/liquid-brun",
+          "issue": "Response described a discontinued women's perfume with unknown release year and no usable metric block"
+        }
+      ],
+      "action": "Retain five earlier extracts in quarantine with quantitative=false; manual-review host hold; no further requests in this pilot"
+    }
+  ]
+}
